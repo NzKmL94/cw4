@@ -27,7 +27,7 @@ def main():
 	left, right = st.columns(2)
 	prediction = st.container()
 
-	st.image("https://i.kym-cdn.com/entries/icons/mobile/000/026/489/crying.jpg")
+	st.image("https://th.bing.com/th/id/R.0c5e657a6741a6862cd5f1c9e008b39c?rik=K1Bvxv66rUTWUA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-ZWl2yFQGfH8%2fTz0UC9-czmI%2fAAAAAAAAA1I%2fqphxpqPVGZ0%2fs1600%2fcapybara3.JPG&ehk=jsy2XXTO39m5o0mamK0W3S%2bzNIvz%2brq6AJ04tw69xFU%3d&risl=&pid=ImgRaw&r=0")
 
 	with overview:
 		st.title("APP")
